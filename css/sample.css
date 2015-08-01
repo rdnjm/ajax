@@ -1,0 +1,43 @@
+.main{
+	width: 100%;
+}
+
+.first{
+	display: inline-block;
+	width: 25%;
+	min-height: 100%;
+}
+
+.test-form{
+	width:100%;
+	display:block;
+}
+
+.form-output{
+	width: 100%;
+	display:inline-block;
+}
+
+.form-output textarea{
+	max-height: 300px; 
+	min-height: 500px;
+    width: 100%;
+    padding: 0;
+    border: 1px solid #ccc;
+    resize: none;
+}
+
+.second{
+	display: inline-block;
+	width: 25%;
+	min-height: 100%;
+	vertical-align: top;
+}
+
+.tbl-show{
+	width: 100%;
+}
+
+.dd:hover{
+	cursor: pointer;
+}
